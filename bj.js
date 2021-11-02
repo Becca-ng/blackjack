@@ -18,7 +18,6 @@ let players = [];
 
 */
 
-
 //Create the deck of cards
 function createDeck() {
     deck = [];
